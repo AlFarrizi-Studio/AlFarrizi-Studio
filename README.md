@@ -168,13 +168,13 @@ I am always keen on exploring deep technological problem statements, standard co
 <a href="https://www.linkedin.com/in/keivan-gymnastiar-al-farrizi-294287355" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="mailto:your_email@domain.com" target="_blank">
+<a href="mailto:alfarrizi-studio@snd.de5.net" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
-<a href="https://twitter.com/YOUR_TWITTER_USERNAME" target="_blank">
+<a href="https://x.com/Al_Farrizi06" target="_blank">
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
 </a>
-<a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank">
+<a href="https://www.instagram.com/al.farrizi__" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
 </p>
