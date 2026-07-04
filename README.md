@@ -167,6 +167,7 @@ To remain at the cutting edge of software engineering, I maintain a strict learn
 I am actively open to discussing complex architectural challenges, enterprise-level job opportunities, open-source collaborations, or simply having a virtual coffee chat about the future of tech.
 
 <p align="center">
+  <!-- Professional & Social Networking -->
   <a href="https://www.linkedin.com/in/keivan-gymnastiar-al-farrizi-294287355" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
   </a>
@@ -176,8 +177,30 @@ I am actively open to discussing complex architectural challenges, enterprise-le
   <a href="https://x.com/Al_Farrizi06" target="_blank">
     <img src="https://img.shields.io/badge/X_Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter Profile" />
   </a>
+  <a href="https://www.threads.com/@al.farrizi__" target="_blank">
+    <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads Profile" />
+  </a>
   <a href="https://www.instagram.com/al.farrizi__" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Profile" />
+  </a>
+</p>
+
+<p align="center">
+  <!-- Video, Gaming, & Community Platforms -->
+  <a href="https://www.youtube.com/@Al_Farrizi" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Channel" />
+  </a>
+  <a href="https://www.tiktok.com/@al.farrizi_" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok Profile" />
+  </a>
+  <a href="https://www.twitch.tv/alfarrizi" target="_blank">
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch Channel" />
+  </a>
+  <a href="https://steamcommunity.com/id/Al_Farrizi/" target="_blank">
+    <img src="https://img.shields.io/badge/Steam-171A21?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Profile" />
+  </a>
+  <a href="https://discord.com/users/765521422399176725" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Server" />
   </a>
 </p>
 
