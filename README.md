@@ -11,7 +11,7 @@
   <a href="https://github.com/AlFarrizi-Studio?tab=repositories">
     <img src="https://img.shields.io/github/stars/AlFarrizi-Studio?label=Total%20Stars&style=social" alt="GitHub Stars" />
   </a>
-  <a href="https://github.com/AlFarrizi-Studio">
+  <a href="https://github.com/AlFarrizi-Studio/DugeonTok-Player">
     <img src="https://img.shields.io/badge/Open%20Source-Contributor-blue?style=social&logo=github" alt="Open Source Contributor" />
   </a>
 </p>
