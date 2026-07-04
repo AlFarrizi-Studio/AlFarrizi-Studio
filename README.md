@@ -165,7 +165,7 @@ Technological evolutionary shifts require structural adapting strategies. Below 
 ## 🤝 Let's Connect & Build Together!
 I am always keen on exploring deep technological problem statements, standard code refactoring structures, or architecture consultations. Reach out anytime!
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+<a href="https://www.linkedin.com/in/keivan-gymnastiar-al-farrizi-294287355" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:your_email@domain.com" target="_blank">
